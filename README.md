@@ -5,4 +5,5 @@
 - 📫 How to reach me: ... samuel@samuelrowan.com
 - 😄 Pronouns: ... he/they
 - ⚡ Fun fact: ... I have too many interests and not enough time
+</br>
 [![samuelrowan's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelrowan)](https://github.com/anuraghazra/github-readme-stats)
